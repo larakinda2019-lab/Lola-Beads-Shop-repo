@@ -1,0 +1,87 @@
+[
+  {
+    "name": "black and white bracelet",
+    "price": 7,
+    "stock": 1,
+    "image_url": "https://wjykhjjualapueoztopp.supabase.co/storage/v1/object/public/images/black%20and%20white%20bracelet.jpg"
+  },
+  {
+    "name": "emerald green bracelet",
+    "price": 7,
+    "stock": 1,
+    "image_url": "https://wjykhjjualapueoztopp.supabase.co/storage/v1/object/public/images/emerald%20green%20bracelet.jpg"
+  },
+  {
+    "name": "black keychain",
+    "price": 10,
+    "stock": 1,
+    "image_url": "https://wjykhjjualapueoztopp.supabase.co/storage/v1/object/public/images/black%20keychain.jpg"
+  },
+  {
+    "name": "black safety pin bag charm",
+    "price": 5,
+    "stock": 1,
+    "image_url": "https://wjykhjjualapueoztopp.supabase.co/storage/v1/object/public/images/black%20safety%20pin%20bag%20charm.jpg"
+  },
+  {
+    "name": "pink safety pin bag charm",
+    "price": 5,
+    "stock": 1,
+    "image_url": "https://wjykhjjualapueoztopp.supabase.co/storage/v1/object/public/images/pink%20saftey%20pin%20bag%20charm.jpg"
+  },
+  {
+    "name": "blue butterfly keychain",
+    "price": 8,
+    "stock": 1,
+    "image_url": "https://wjykhjjualapueoztopp.supabase.co/storage/v1/object/public/images/blue%20butterfly%20keychain.jpg"
+  },
+  {
+    "name": "dango bow phone charm",
+    "price": 5,
+    "stock": 1,
+    "image_url": "https://wjykhjjualapueoztopp.supabase.co/storage/v1/object/public/images/dango%20bow%20phone%20charm.jpg"
+  },
+  {
+    "name": "dango flower phone charm",
+    "price": 5,
+    "stock": 1,
+    "image_url": "https://wjykhjjualapueoztopp.supabase.co/storage/v1/object/public/images/dango%20flower%20phone%20charm.jpg"
+  },
+  {
+    "name": "dango heart phone charm",
+    "price": 5,
+    "stock": 1,
+    "image_url": "https://wjykhjjualapueoztopp.supabase.co/storage/v1/object/public/images/dango%20heart%20phone%20charm.jpg"
+  },
+  {
+    "name": "dango moon phone charm",
+    "price": 5,
+    "stock": 1,
+    "image_url": "https://wjykhjjualapueoztopp.supabase.co/storage/v1/object/public/images/dango%20moon%20phone%20charm.jpg"
+  },
+  {
+    "name": "pink butterfly phone charm",
+    "price": 7,
+    "stock": 1,
+    "image_url": "https://wjykhjjualapueoztopp.supabase.co/storage/v1/object/public/images/pink%20butterfly%20phone%20charm.jpg"
+  },
+  {
+    "name": "pink gummy bear phone charm",
+    "price": 7,
+    "stock": 1,
+    "image_url": "https://wjykhjjualapueoztopp.supabase.co/storage/v1/object/public/images/pink%20gummy%20bear%20phone%20charm.jpg"
+  },
+  {
+    "name": "spider-man black-red bff bag charm",
+    "price": 5,
+    "stock": 1,
+    "image_url": "https://wjykhjjualapueoztopp.supabase.co/storage/v1/object/public/images/spider-man%20black-red%20bff%20bag%20charm.jpg"
+  },
+  {
+    "name": "spider-man bff phone charm",
+    "price": 10,
+    "stock": 1,
+    "image_url": "https://wjykhjjualapueoztopp.supabase.co/storage/v1/object/public/images/spider-man%20bff%20phone%20charm.jpg"
+  }
+]
+
